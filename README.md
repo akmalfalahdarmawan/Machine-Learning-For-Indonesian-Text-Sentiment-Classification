@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="background.jpg" alt="Sentiment Analysis Banner" width="600"/>
+  <img src="Background.jpg" alt="Sentiment Analysis Banner" width="600"/>
 </p>
 
 # 💬 Indonesian Sentiment Text Classification with Machine Learning
